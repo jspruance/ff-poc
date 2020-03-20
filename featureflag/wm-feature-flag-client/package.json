@@ -1,0 +1,16 @@
+{
+  "name": "wm-feature-flag-client",
+  "author": "Warner Media",
+  "version": "1.0.0",
+  "description": "A client library for determining the availability of certain platform features for a given user.",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "^7.0.2",
+    "winston": "^3.2.1"
+  }
+}

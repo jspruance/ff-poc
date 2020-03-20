@@ -1,0 +1,29 @@
+{
+  "appId": "app-A",
+  "features": [
+    {
+      "name": "feature-A",
+      "featureId": "5159095521",
+      "saltKey": "7302928630",
+      "rolloutRate": "20"
+    },
+    {
+      "name": "feature-B",
+      "featureId": "3735236558",
+      "saltKey": "0961869093",
+      "rolloutRate": "70"
+    },
+    {
+      "name": "feature-C",
+      "featureId": "0961869093",
+      "saltKey": "3735236558",
+      "rolloutRate": "50"
+    },
+    {
+      "name": "feature-D",
+      "featureId": "7302928630",
+      "saltKey": "5159095521",
+      "rolloutRate": "100"
+    }
+  ]
+}
